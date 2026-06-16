@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tandem.community.data.paging.CommunityPagingSourceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-06-16T13:49:09" hostname="RQXHF40QG6" time="0.147">
+  <properties/>
+  <testcase name="loads first page and provides next key when page is full" classname="com.tandem.community.data.paging.CommunityPagingSourceTest" time="0.137"/>
+  <testcase name="returns error when request fails" classname="com.tandem.community.data.paging.CommunityPagingSourceTest" time="0.005"/>
+  <testcase name="loads specific page number" classname="com.tandem.community.data.paging.CommunityPagingSourceTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

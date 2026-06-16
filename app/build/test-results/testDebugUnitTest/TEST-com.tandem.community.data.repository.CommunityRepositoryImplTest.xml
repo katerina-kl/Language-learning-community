@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tandem.community.data.repository.CommunityRepositoryImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-06-16T13:49:09" hostname="RQXHF40QG6" time="0.543">
+  <properties/>
+  <testcase name="setLiked persists and observeLikedIds reflects changes" classname="com.tandem.community.data.repository.CommunityRepositoryImplTest" time="0.543"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

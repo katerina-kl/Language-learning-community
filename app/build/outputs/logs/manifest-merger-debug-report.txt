@@ -1,0 +1,427 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.paging:paging-compose-android:3.3.2] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b25a247b046a6dcc7a74f9697f295f42/transformed/paging-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.paging:paging-common-android:3.3.2] /Users/katerina.kaloshi/.gradle/caches/transforms-4/4c458b3c9bb80117c4f836ea9b54c58e/transformed/paging-common-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.paging:paging-runtime:3.3.2] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b5f6b78351eb91ddf567724c5f582b7d/transformed/paging-runtime-3.3.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/6a385b10ac81c2e22d7be7f34971bbbb/transformed/hilt-navigation-compose-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/8faba6af1284f5180a6645a6ccbe0f0e/transformed/hilt-navigation-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.51.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/88adc49a8912df471b7bcc92f2c5a8c4/transformed/hilt-android-2.51.1/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/d31b28be82a257dbdf09cbd7855607bd/transformed/fragment-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-compose:2.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/4ab030878264de903fc02d3f4511521b/transformed/navigation-compose-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b0f619322e0658cb67b80157a981997b/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [io.coil-kt:coil-compose:2.6.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/1d31afc942f67258098d11e4b2d34c59/transformed/coil-compose-2.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.6.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b913a3e0ed7fad4ac80f6c2e7a140528/transformed/coil-compose-base-2.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.6.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/67a250078a22306a850e4c5e26aab7ca/transformed/coil-2.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.6.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/498d197874cbabf248c9d1dd2979a313/transformed/coil-base-2.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/7cb7e586083d1f39a006d813f4aab747/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/ea377b81798aaca3fda99cb7c700c612/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/916f4d0b430ae5a07701e7aeededfd14/transformed/material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/6176e2d056e491d68610e5952e117bf2/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/935323df6a1e18fcb047cefcdf7a1fc9/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/c9145ef8c9bc53a172bc8f8ff07d8654/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/eb358ee4bfb5cb94931642d103d45652/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/66df82e87150440242a707e100cd33e3/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/7860364622bbae4bbad9d39af54bffbb/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/ab70cb7474651689708cd8a1c6baeef2/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b4663d865cd5d4342a70ff792c156a54/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/2e5937bd569699c25d9479bb6c82c262/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/0a5198edb55edbd3b0fb601fe744530b/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/08dfe0704a0cee3e96b9372e055356fd/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/4c2fc5cc784e26650f547a55bd2a2d2d/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/400b7112d1c72999df19a386eb014799/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/69e718a7540dd161e3c54d6f4641df13/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/7e9ed4c3d1df8dae4f151c488b80aa0a/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/767d1b9cbddb89e25c9b061e18a197d4/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/c08aab85a804cb7228cdbca9240fdc12/transformed/navigation-common-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/8b2d41a4d55c75ce0a7d57d77ac94c6c/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/9daeb9346b953a65497745a87519f62f/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/5ad59a4da6752528f3f3abed1c5067b7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/efb1d4eacbb9e7817361fc0ae1c698c9/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/684ac855a60dea0c3e8055ffbebf7aed/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b1d240906ccf0e4685c3fef4c94fb4d0/transformed/lifecycle-viewmodel-2.8.4/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/99f4e5003fcb67e6b526694a963bb4a8/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/91c3f02d89d988c2ac630bec2c41c428/transformed/lifecycle-livedata-core-ktx-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/e7b37458133fb81288ccc12f7576c53d/transformed/lifecycle-livedata-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/895fb93da23ee6242317945d7b54b2cc/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/5abd16fd7608b1f92741ff4764db1963/transformed/lifecycle-livedata-core-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/10f28d9cc0b6f15baf2344c21a48f299/transformed/lifecycle-viewmodel-savedstate-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/ccaa6afde393f15f8a38ca1a32b41adb/transformed/lifecycle-viewmodel-ktx-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/f0279f0af6e517936bf27813d0fb70c5/transformed/lifecycle-livedata-ktx-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/e3bbbdd88e962ca872171e2a5f3aefb5/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/f197401b08bd6e2d611da26626c0d008/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/6c238725021354d3f4f5040e7b6efe09/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/027c1804691cdaad8b41ad5a0580d23f/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/f8ac5eacffc22a13045deb926b144c5a/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/1d22f5283f17e38933bd41da22e541ad/transformed/activity-ktx-1.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/ca3e66a46ce8f5d3890d14d7fcfd9c4c/transformed/activity-compose-1.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/2ff764639e4cdcc38151c0b33a045ccc/transformed/activity-1.9.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/f9de09ae32e1432d56bb91f737f75614/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/6c7c5d909921f2f7688792e571c73077/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/46eed034b2fbc54f542df25ba014fd9f/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/04f121b92f377fcdb9ceb8db8bbe42fa/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/80be9fd241eed2875c9f8bb281d0ce83/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/219f310e607e6fdcd4eabd56d1763723/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/c2abf346bfe664c649e6b71cb5bb6e22/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/94a719042edbe76c73ea7d3df0528a31/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/de1f84094a133c113b1a096293d46f1d/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/584a598de0b42485fac9e5c8dc9b4e24/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/48c2a788558b307a895268883a25717f/transformed/room-runtime-2.6.1/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/8a65f26779810840c5665b63dd08490b/transformed/room-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/364b30b7aa9557c1b0c46f44f0659081/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/d99cf4b730c816468de2c833159b6da4/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/591061c494b432825d017e5e5ba682b6/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/aa847845b90db86420fe1862cc04b660/transformed/sqlite-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/80a0d225fec1ba6ab97be841a7a312ad/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/c97f6871e29b8e66a2a86ec709124233/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/ae553a23bdd8bed443bac3898d4a711f/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/14b0c7dc14130fecd70224faa7083abe/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/75851d9908eff3b5a5042e0585c5a9e7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/aa3f68abd7b6d55d73f0016a706df8ee/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/katerina.kaloshi/.gradle/caches/transforms-4/f800e1338a3ac32b3907091a0bcfbbd6/transformed/exifinterface-1.3.7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/bbaefff3dcda19334be7ac740ff633ac/transformed/dagger-lint-aar-2.51.1/AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:6:5-24:19
+INJECTED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/400b7112d1c72999df19a386eb014799/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/400b7112d1c72999df19a386eb014799/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/efb1d4eacbb9e7817361fc0ae1c698c9/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/efb1d4eacbb9e7817361fc0ae1c698c9/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/684ac855a60dea0c3e8055ffbebf7aed/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/684ac855a60dea0c3e8055ffbebf7aed/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/94a719042edbe76c73ea7d3df0528a31/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/94a719042edbe76c73ea7d3df0528a31/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/48c2a788558b307a895268883a25717f/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/48c2a788558b307a895268883a25717f/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/c97f6871e29b8e66a2a86ec709124233/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/c97f6871e29b8e66a2a86ec709124233/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/75851d9908eff3b5a5042e0585c5a9e7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/75851d9908eff3b5a5042e0585c5a9e7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/94a719042edbe76c73ea7d3df0528a31/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:13:9-63
+	android:name
+		ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:7:9-45
+activity#com.tandem.community.presentation.MainActivity
+ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:18:13-67
+	android:name
+		ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:16:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml
+INJECTED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml
+MERGED from [androidx.paging:paging-compose-android:3.3.2] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b25a247b046a6dcc7a74f9697f295f42/transformed/paging-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-compose-android:3.3.2] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b25a247b046a6dcc7a74f9697f295f42/transformed/paging-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-common-android:3.3.2] /Users/katerina.kaloshi/.gradle/caches/transforms-4/4c458b3c9bb80117c4f836ea9b54c58e/transformed/paging-common-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-common-android:3.3.2] /Users/katerina.kaloshi/.gradle/caches/transforms-4/4c458b3c9bb80117c4f836ea9b54c58e/transformed/paging-common-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-runtime:3.3.2] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b5f6b78351eb91ddf567724c5f582b7d/transformed/paging-runtime-3.3.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-runtime:3.3.2] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b5f6b78351eb91ddf567724c5f582b7d/transformed/paging-runtime-3.3.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/6a385b10ac81c2e22d7be7f34971bbbb/transformed/hilt-navigation-compose-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/6a385b10ac81c2e22d7be7f34971bbbb/transformed/hilt-navigation-compose-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/8faba6af1284f5180a6645a6ccbe0f0e/transformed/hilt-navigation-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/8faba6af1284f5180a6645a6ccbe0f0e/transformed/hilt-navigation-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.51.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/88adc49a8912df471b7bcc92f2c5a8c4/transformed/hilt-android-2.51.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.51.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/88adc49a8912df471b7bcc92f2c5a8c4/transformed/hilt-android-2.51.1/AndroidManifest.xml:18:3-42
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/d31b28be82a257dbdf09cbd7855607bd/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/d31b28be82a257dbdf09cbd7855607bd/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/4ab030878264de903fc02d3f4511521b/transformed/navigation-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/4ab030878264de903fc02d3f4511521b/transformed/navigation-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b0f619322e0658cb67b80157a981997b/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b0f619322e0658cb67b80157a981997b/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [io.coil-kt:coil-compose:2.6.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/1d31afc942f67258098d11e4b2d34c59/transformed/coil-compose-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.6.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/1d31afc942f67258098d11e4b2d34c59/transformed/coil-compose-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.6.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b913a3e0ed7fad4ac80f6c2e7a140528/transformed/coil-compose-base-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.6.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b913a3e0ed7fad4ac80f6c2e7a140528/transformed/coil-compose-base-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.6.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/67a250078a22306a850e4c5e26aab7ca/transformed/coil-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.6.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/67a250078a22306a850e4c5e26aab7ca/transformed/coil-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.6.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/498d197874cbabf248c9d1dd2979a313/transformed/coil-base-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.6.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/498d197874cbabf248c9d1dd2979a313/transformed/coil-base-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/7cb7e586083d1f39a006d813f4aab747/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/7cb7e586083d1f39a006d813f4aab747/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/ea377b81798aaca3fda99cb7c700c612/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/ea377b81798aaca3fda99cb7c700c612/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/916f4d0b430ae5a07701e7aeededfd14/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/916f4d0b430ae5a07701e7aeededfd14/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/6176e2d056e491d68610e5952e117bf2/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/6176e2d056e491d68610e5952e117bf2/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/935323df6a1e18fcb047cefcdf7a1fc9/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/935323df6a1e18fcb047cefcdf7a1fc9/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/c9145ef8c9bc53a172bc8f8ff07d8654/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/c9145ef8c9bc53a172bc8f8ff07d8654/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/eb358ee4bfb5cb94931642d103d45652/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/eb358ee4bfb5cb94931642d103d45652/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/66df82e87150440242a707e100cd33e3/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/66df82e87150440242a707e100cd33e3/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/7860364622bbae4bbad9d39af54bffbb/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/7860364622bbae4bbad9d39af54bffbb/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/ab70cb7474651689708cd8a1c6baeef2/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/ab70cb7474651689708cd8a1c6baeef2/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b4663d865cd5d4342a70ff792c156a54/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b4663d865cd5d4342a70ff792c156a54/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/2e5937bd569699c25d9479bb6c82c262/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/2e5937bd569699c25d9479bb6c82c262/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/0a5198edb55edbd3b0fb601fe744530b/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/0a5198edb55edbd3b0fb601fe744530b/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/08dfe0704a0cee3e96b9372e055356fd/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/08dfe0704a0cee3e96b9372e055356fd/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/4c2fc5cc784e26650f547a55bd2a2d2d/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/4c2fc5cc784e26650f547a55bd2a2d2d/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/400b7112d1c72999df19a386eb014799/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/400b7112d1c72999df19a386eb014799/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/69e718a7540dd161e3c54d6f4641df13/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/69e718a7540dd161e3c54d6f4641df13/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/7e9ed4c3d1df8dae4f151c488b80aa0a/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/7e9ed4c3d1df8dae4f151c488b80aa0a/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/767d1b9cbddb89e25c9b061e18a197d4/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/767d1b9cbddb89e25c9b061e18a197d4/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/c08aab85a804cb7228cdbca9240fdc12/transformed/navigation-common-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/c08aab85a804cb7228cdbca9240fdc12/transformed/navigation-common-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/8b2d41a4d55c75ce0a7d57d77ac94c6c/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/8b2d41a4d55c75ce0a7d57d77ac94c6c/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/9daeb9346b953a65497745a87519f62f/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/9daeb9346b953a65497745a87519f62f/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/5ad59a4da6752528f3f3abed1c5067b7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/5ad59a4da6752528f3f3abed1c5067b7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/efb1d4eacbb9e7817361fc0ae1c698c9/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/efb1d4eacbb9e7817361fc0ae1c698c9/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/684ac855a60dea0c3e8055ffbebf7aed/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/684ac855a60dea0c3e8055ffbebf7aed/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b1d240906ccf0e4685c3fef4c94fb4d0/transformed/lifecycle-viewmodel-2.8.4/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/b1d240906ccf0e4685c3fef4c94fb4d0/transformed/lifecycle-viewmodel-2.8.4/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/99f4e5003fcb67e6b526694a963bb4a8/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/99f4e5003fcb67e6b526694a963bb4a8/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/91c3f02d89d988c2ac630bec2c41c428/transformed/lifecycle-livedata-core-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/91c3f02d89d988c2ac630bec2c41c428/transformed/lifecycle-livedata-core-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/e7b37458133fb81288ccc12f7576c53d/transformed/lifecycle-livedata-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/e7b37458133fb81288ccc12f7576c53d/transformed/lifecycle-livedata-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/895fb93da23ee6242317945d7b54b2cc/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/895fb93da23ee6242317945d7b54b2cc/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/5abd16fd7608b1f92741ff4764db1963/transformed/lifecycle-livedata-core-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/5abd16fd7608b1f92741ff4764db1963/transformed/lifecycle-livedata-core-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/10f28d9cc0b6f15baf2344c21a48f299/transformed/lifecycle-viewmodel-savedstate-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/10f28d9cc0b6f15baf2344c21a48f299/transformed/lifecycle-viewmodel-savedstate-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/ccaa6afde393f15f8a38ca1a32b41adb/transformed/lifecycle-viewmodel-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/ccaa6afde393f15f8a38ca1a32b41adb/transformed/lifecycle-viewmodel-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/f0279f0af6e517936bf27813d0fb70c5/transformed/lifecycle-livedata-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/f0279f0af6e517936bf27813d0fb70c5/transformed/lifecycle-livedata-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/e3bbbdd88e962ca872171e2a5f3aefb5/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/e3bbbdd88e962ca872171e2a5f3aefb5/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/f197401b08bd6e2d611da26626c0d008/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/f197401b08bd6e2d611da26626c0d008/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/6c238725021354d3f4f5040e7b6efe09/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/6c238725021354d3f4f5040e7b6efe09/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/027c1804691cdaad8b41ad5a0580d23f/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/027c1804691cdaad8b41ad5a0580d23f/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/f8ac5eacffc22a13045deb926b144c5a/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/f8ac5eacffc22a13045deb926b144c5a/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/1d22f5283f17e38933bd41da22e541ad/transformed/activity-ktx-1.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/1d22f5283f17e38933bd41da22e541ad/transformed/activity-ktx-1.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/ca3e66a46ce8f5d3890d14d7fcfd9c4c/transformed/activity-compose-1.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/ca3e66a46ce8f5d3890d14d7fcfd9c4c/transformed/activity-compose-1.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/2ff764639e4cdcc38151c0b33a045ccc/transformed/activity-1.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/2ff764639e4cdcc38151c0b33a045ccc/transformed/activity-1.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/f9de09ae32e1432d56bb91f737f75614/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/f9de09ae32e1432d56bb91f737f75614/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/6c7c5d909921f2f7688792e571c73077/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/6c7c5d909921f2f7688792e571c73077/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/46eed034b2fbc54f542df25ba014fd9f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/46eed034b2fbc54f542df25ba014fd9f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/04f121b92f377fcdb9ceb8db8bbe42fa/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/04f121b92f377fcdb9ceb8db8bbe42fa/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/80be9fd241eed2875c9f8bb281d0ce83/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/80be9fd241eed2875c9f8bb281d0ce83/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/219f310e607e6fdcd4eabd56d1763723/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/219f310e607e6fdcd4eabd56d1763723/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/c2abf346bfe664c649e6b71cb5bb6e22/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/c2abf346bfe664c649e6b71cb5bb6e22/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/94a719042edbe76c73ea7d3df0528a31/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/94a719042edbe76c73ea7d3df0528a31/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/de1f84094a133c113b1a096293d46f1d/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/de1f84094a133c113b1a096293d46f1d/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/584a598de0b42485fac9e5c8dc9b4e24/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/584a598de0b42485fac9e5c8dc9b4e24/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/48c2a788558b307a895268883a25717f/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/48c2a788558b307a895268883a25717f/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/8a65f26779810840c5665b63dd08490b/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/8a65f26779810840c5665b63dd08490b/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/364b30b7aa9557c1b0c46f44f0659081/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/364b30b7aa9557c1b0c46f44f0659081/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/d99cf4b730c816468de2c833159b6da4/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/d99cf4b730c816468de2c833159b6da4/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/591061c494b432825d017e5e5ba682b6/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/591061c494b432825d017e5e5ba682b6/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/aa847845b90db86420fe1862cc04b660/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/aa847845b90db86420fe1862cc04b660/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/80a0d225fec1ba6ab97be841a7a312ad/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/80a0d225fec1ba6ab97be841a7a312ad/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/c97f6871e29b8e66a2a86ec709124233/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/c97f6871e29b8e66a2a86ec709124233/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/ae553a23bdd8bed443bac3898d4a711f/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/ae553a23bdd8bed443bac3898d4a711f/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/14b0c7dc14130fecd70224faa7083abe/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/14b0c7dc14130fecd70224faa7083abe/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/75851d9908eff3b5a5042e0585c5a9e7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/75851d9908eff3b5a5042e0585c5a9e7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/aa3f68abd7b6d55d73f0016a706df8ee/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/aa3f68abd7b6d55d73f0016a706df8ee/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/katerina.kaloshi/.gradle/caches/transforms-4/f800e1338a3ac32b3907091a0bcfbbd6/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/katerina.kaloshi/.gradle/caches/transforms-4/f800e1338a3ac32b3907091a0bcfbbd6/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/bbaefff3dcda19334be7ac740ff633ac/transformed/dagger-lint-aar-2.51.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/bbaefff3dcda19334be7ac740ff633ac/transformed/dagger-lint-aar-2.51.1/AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/katerina.kaloshi/Language-learning-community/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/400b7112d1c72999df19a386eb014799/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/400b7112d1c72999df19a386eb014799/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.8] /Users/katerina.kaloshi/.gradle/caches/transforms-4/400b7112d1c72999df19a386eb014799/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/efb1d4eacbb9e7817361fc0ae1c698c9/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/684ac855a60dea0c3e8055ffbebf7aed/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/684ac855a60dea0c3e8055ffbebf7aed/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/75851d9908eff3b5a5042e0585c5a9e7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/75851d9908eff3b5a5042e0585c5a9e7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/efb1d4eacbb9e7817361fc0ae1c698c9/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/efb1d4eacbb9e7817361fc0ae1c698c9/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/efb1d4eacbb9e7817361fc0ae1c698c9/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/efb1d4eacbb9e7817361fc0ae1c698c9/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/efb1d4eacbb9e7817361fc0ae1c698c9/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/efb1d4eacbb9e7817361fc0ae1c698c9/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/katerina.kaloshi/.gradle/caches/transforms-4/efb1d4eacbb9e7817361fc0ae1c698c9/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/684ac855a60dea0c3e8055ffbebf7aed/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/684ac855a60dea0c3e8055ffbebf7aed/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] /Users/katerina.kaloshi/.gradle/caches/transforms-4/684ac855a60dea0c3e8055ffbebf7aed/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/94a719042edbe76c73ea7d3df0528a31/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/94a719042edbe76c73ea7d3df0528a31/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/94a719042edbe76c73ea7d3df0528a31/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.tandem.community.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/94a719042edbe76c73ea7d3df0528a31/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/94a719042edbe76c73ea7d3df0528a31/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/94a719042edbe76c73ea7d3df0528a31/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/94a719042edbe76c73ea7d3df0528a31/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/94a719042edbe76c73ea7d3df0528a31/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.tandem.community.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/94a719042edbe76c73ea7d3df0528a31/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/94a719042edbe76c73ea7d3df0528a31/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/48c2a788558b307a895268883a25717f/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/48c2a788558b307a895268883a25717f/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/48c2a788558b307a895268883a25717f/transformed/room-runtime-2.6.1/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/48c2a788558b307a895268883a25717f/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/48c2a788558b307a895268883a25717f/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/katerina.kaloshi/.gradle/caches/transforms-4/696ef6f0fc8d5cdcd5a59d98f4af6792/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

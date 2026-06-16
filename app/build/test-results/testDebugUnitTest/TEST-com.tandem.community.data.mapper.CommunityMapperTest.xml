@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tandem.community.data.mapper.CommunityMapperTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-06-16T13:49:09" hostname="RQXHF40QG6" time="0.006">
+  <properties/>
+  <testcase name="maps a list of dtos" classname="com.tandem.community.data.mapper.CommunityMapperTest" time="0.005"/>
+  <testcase name="null fields fall back to safe defaults" classname="com.tandem.community.data.mapper.CommunityMapperTest" time="0.001"/>
+  <testcase name="maps all fields correctly" classname="com.tandem.community.data.mapper.CommunityMapperTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

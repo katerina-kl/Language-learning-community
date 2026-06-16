@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#00B0A6</color>
+    <color name="surface_light">#F6F7F9</color>
+    <string name="app_name">Community</string>
+    <style name="Theme.LanguageLearningCommunity" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/surface_light</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

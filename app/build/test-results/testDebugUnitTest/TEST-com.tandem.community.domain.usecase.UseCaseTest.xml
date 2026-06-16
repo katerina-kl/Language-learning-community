@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tandem.community.domain.usecase.UseCaseTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-06-16T13:49:09" hostname="RQXHF40QG6" time="0.005">
+  <properties/>
+  <testcase name="ToggleLikeUseCase unlikes a member that is currently liked" classname="com.tandem.community.domain.usecase.UseCaseTest" time="0.002"/>
+  <testcase name="ToggleLikeUseCase likes a member that is currently unliked" classname="com.tandem.community.domain.usecase.UseCaseTest" time="0.001"/>
+  <testcase name="ObserveLikedIdsUseCase streams repository likes" classname="com.tandem.community.domain.usecase.UseCaseTest" time="0.001"/>
+  <testcase name="GetCommunityMembersUseCase returns paging flow from repository" classname="com.tandem.community.domain.usecase.UseCaseTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

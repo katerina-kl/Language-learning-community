@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tandem.community.domain.model.CommunityMemberTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-06-16T13:49:09" hostname="RQXHF40QG6" time="0.001">
+  <properties/>
+  <testcase name="member with positive referenceCount is not new" classname="com.tandem.community.domain.model.CommunityMemberTest" time="0.0"/>
+  <testcase name="member with referenceCount 0 is new" classname="com.tandem.community.domain.model.CommunityMemberTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
